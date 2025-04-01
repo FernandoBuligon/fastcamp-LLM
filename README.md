@@ -3,3 +3,4 @@
  - Card 02: Modelos transformers, OpenAI e Hugging Face;
  - Card 03: Como estruturar um bom prompt;
  - Card 04: LLMs;
+ - Card 05: LLMs;
