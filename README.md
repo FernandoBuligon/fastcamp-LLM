@@ -5,4 +5,4 @@
  - Card 04: Introdução a LLM e tópicos 1 e 2;
  - Card 05: Tópicos 3 e 4;
  - Card 06: Embeddings e criação de um LLM
- - Card 07: Tópico 5
+ - Card 07: Tópico 5;
