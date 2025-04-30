@@ -6,3 +6,4 @@
  - Card 05: Tópicos 3 e 4;
  - Card 06: Embeddings e criação de um LLM
  - Card 07: Tópico 5;
+ - Card 08: Tópicos 6 e 7;
