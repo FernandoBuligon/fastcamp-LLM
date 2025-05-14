@@ -4,6 +4,7 @@
  - Card 03: Como estruturar um bom prompt;
  - Card 04: Introdução a LLM e tópicos 1 e 2;
  - Card 05: Tópicos 3 e 4;
- - Card 06: Embeddings e criação de um LLM
+ - Card 06: Embeddings e criação de um LLM;
  - Card 07: Tópico 5;
  - Card 08: Tópicos 6 e 7;
+ - Card 09: Chatbot com memória;
