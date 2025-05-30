@@ -8,3 +8,4 @@
  - Card 07: Tópico 5;
  - Card 08: Tópicos 6 e 7;
  - Card 09: Chatbot com memória;
+ - Card 10: Agente LLM e como começar um projeto;
