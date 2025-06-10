@@ -10,3 +10,4 @@
  - Card 09: Chatbot com memória;
  - Card 10: Agente LLM e como começar um projeto;
  - Card 11: RAG;
+ - Card 12: Documentacão langchain (chatbot com groq);
